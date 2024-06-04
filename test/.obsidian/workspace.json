@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "8ff1c239c9662d50",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bf0099e55503ba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26e8647e0df32f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88d83f01affd6a8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a948f0d290561da9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a584af9001b88f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1479cb3b7c2ca86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rendering equation",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cb0699d1d9aee7f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f32e5e38b0ff62e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "1388fea8d898d57d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4a6cce32bc83503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67820b71a21721bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e08e762163c7863",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "330f978072e8cbee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "eae61e1cdce3f9c4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "39fa77c670af5e31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4587719282631dd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "26e8647e0df32f0d",
+  "lastOpenFiles": [
+    "uni_notes",
+    "NLU/5.1 Text Classification Applications.md",
+    "Notes",
+    "NLU/5.2 Text Classification - Traditional Approaches.md",
+    "NLU/8.1 NLG - Language Modelling and Sequence-to-sequence Learning.md",
+    "ML/Week 3/Machine Learning Experiments I.md",
+    "ML/Week 3/Machine Learning Experiments II.md",
+    "NLP/3.1 POS Tagging.md",
+    "NLP/1.1  Challenges to NLP.md",
+    "NLP/2.1  Text Pre-Processing.md",
+    "NLP/2.2 Text Representation & Language Models.md",
+    "NLP/4.1 Word Sense.md",
+    "NLU/2.2 N-Grams & RNN.md",
+    "NLU/2.1 Vector Based Representations.md",
+    "NLU/1.1 What is NLU? Tasks?.md",
+    "Cognitive Robotics/1.1 Language Learning in People and Robots.md",
+    "NLU/Attachments/Screenshot 2024-04-16 at 15.39.31.png",
+    "NLU/Attachments/Screenshot 2024-04-16 at 15.39.15.png",
+    "NLU/Attachments/Screenshot 2024-04-16 at 14.52.45.png",
+    "Project/Basics of Reinforcement learning.md",
+    "Project/Continuous States.md",
+    "Project/Dynamic Programming.md",
+    "Project/Monte Carlo.md",
+    "Project/N-step TD.md",
+    "Project/Temporal Differences.md",
+    "Project/What is Reinforcement Learning?.md",
+    "Untitled.md",
+    "NLU/Attachments/Screenshot 2024-04-16 at 15.35.01.png",
+    "NLU/Attachments/Screenshot 2024-04-16 at 14.43.47.png",
+    "NLU/Attachments/Screenshot 2024-03-12 at 10.55.00.png",
+    "NLU/Attachments/Screenshot 2024-03-12 at 11.48.57.png",
+    "NLU/Attachments/Screenshot 2024-03-12 at 11.42.53.png",
+    "ML/Week 1/Lecture Notes.md",
+    "NLU/6.1 Sequence Labelling - Applications.md",
+    "NLU/4.3 Evaluation Metrics.md",
+    "NLU/Attachments/Reliability of Data and Reporting Performance AY2023-24.pdf",
+    "NLU/Attachments/Screenshot 2024-02-27 at 14.57.20.png",
+    "NLU/Attachments/Screenshot 2024-02-27 at 16.21.58.png",
+    "Cognitive Robotics/Attachments",
+    "NLU/Attachments",
+    "NLU",
+    "Cognitive Robotics",
+    "Seerah",
+    "IMG_9485.heic",
+    "J",
+    "Project/Attachmenets"
+  ]
+}

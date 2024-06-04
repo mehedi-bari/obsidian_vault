@@ -1,0 +1,8 @@
+- Databases cannot store any spaces, so the database needs to have a naming convention.
+- Furthermore, every DBMS has unique keywords that are reserved. So, they cannot be used, and nees to be replaced.
+- ![[Screenshot 2022-10-20 at 16.07.32.png]]
+- It is also very important to have the different datatypes that the attribute can take.
+- Equally important, you've to specify whether something can remain 'null', which can affect when you have an incomplete insertion into the database. 
+	- You can set the constraints as NULL, NOT NULL, DEFAULT, jeys
+- ![[Screenshot 2022-10-20 at 16.09.45.png]]
+- There are also tools like lucidchart which convert physical data model to MySQL code.
